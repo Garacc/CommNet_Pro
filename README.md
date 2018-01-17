@@ -1,2 +1,3 @@
 # CommNet_Pro
-CommNet project and quiz
+
+This res includes the quiz and project of CommNet course.
