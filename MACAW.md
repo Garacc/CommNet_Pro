@@ -1,3 +1,10 @@
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}
+});
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'></script>
+
 # [MACAW](https://wenku.baidu.com/view/f737c1ec5ef7ba0d4a733ba2.html?re=view "MACAW： A Media Access Protocol for Wireless LAN's") Report
 
 ## 1 背景
